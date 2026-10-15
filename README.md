@@ -1,16 +1,14 @@
-## Hi there 👋
+# Lincoln André França Almeida
 
-<!--
-**LincolnCybermaker/LincolnCybermaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Suporte de TI e sistemas ERP, com experiência em compras industriais e automação com IA.
+São Paulo, SP · [LinkedIn](https://www.linkedin.com/in/lincoln-andr%C3%A9-0b5baa443)
 
-Here are some ideas to get you started:
+## Experiência
+- ERPs: Protheus (TOTVS), Sankhya e Nomus
+- Suporte de computadores desde 2022: formatação, diagnóstico de hardware e montagem de PCs
+- CRM com agentes de IA para a área de compras (Teknovation)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repositórios
+- [linux-notes](https://github.com/LincolnCybermaker/linux-notes): comandos, anotações e laboratórios de Linux
+- [scripts-lab](https://github.com/LincolnCybermaker/scripts-lab): primeiros scripts em Bash, PowerShell e Python
+- [cyber-devops-roadmap](https://github.com/LincolnCybermaker/cyber-devops-roadmap): plano de estudos em segurança e DevOps
