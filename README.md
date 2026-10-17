@@ -9,7 +9,7 @@ São Paulo, SP · [LinkedIn](https://www.linkedin.com/in/lincoln-andr%C3%A9-0b5b
 - CRM com agentes de IA para a área de compras (Teknovation)
 
 ## Formação
-- Tecnólogo em Análise e Desenvolvimento de Sistemas (EAD), UNICID: cursando desde 2026
+- Tecnólogo em Análise e Desenvolvimento de Sistemas, UNICID: cursando desde 2026
 
 ## Repositórios
 - [linux-notes](https://github.com/LincolnCybermaker/linux-notes): comandos, anotações e laboratórios de Linux
