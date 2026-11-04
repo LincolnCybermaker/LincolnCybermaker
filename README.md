@@ -1,17 +1,32 @@
 # Lincoln André França Almeida
 
-Suporte de TI e sistemas ERP, com experiência em compras industriais e automação com IA.
+Estudante de Cibersegurança em transição de carreira para segurança ofensiva. Pratico pentest em home lab (Kali + VirtualBox) e máquinas do HackTheBox e VulnHub.
+
 São Paulo, SP · [LinkedIn](https://www.linkedin.com/in/lincoln-andr%C3%A9-0b5baa443)
 
-## Experiência
-- ERPs: Protheus (TOTVS), Sankhya e Nomus
-- Suporte de computadores desde 2022: formatação, diagnóstico de hardware e montagem de PCs
-- CRM com agentes de IA para a área de compras (Teknovation)
+## O que eu faço na prática
+
+- **Pentest em home lab** — montei ambiente isolado com Kali Linux e alvos vulneráveis, explorei vulnerabilidades de rede e web, e documentei tudo
+- **CTF e máquinas vulneráveis** — HackTheBox (Starting Point) e VulnHub (Kioptrix), com exploits manuais e Metasploit
+- **Análise de tráfego** — Wireshark para captura e análise forense (sniffing de credenciais, reconstrução de exploits com TCP Stream)
+
+## Certificações
+
+- Desec Pentest (concluído)
+- Santander Open Academy — Fundamentos de Segurança Cibernética (concluído)
+- Fortinet NSE 1 (em andamento)
 
 ## Formação
-- Tecnólogo em Análise e Desenvolvimento de Sistemas, UNICID: cursando desde 2026
+
+- Tecnólogo em Cibersegurança — UNICID (cursando)
 
 ## Repositórios
-- [linux-notes](https://github.com/LincolnCybermaker/linux-notes): comandos, anotações e laboratórios de Linux
-- [scripts-lab](https://github.com/LincolnCybermaker/scripts-lab): primeiros scripts em Bash, PowerShell e Python
-- [cyber-devops-roadmap](https://github.com/LincolnCybermaker/cyber-devops-roadmap): plano de estudos em segurança e DevOps
+
+- [pentest-report-metasploitable2](https://github.com/LincolnCybermaker/pentest-report-metasploitable2) — relatório completo de pentest com 7 vulnerabilidades exploradas no home lab
+- [suporte-ti-notes](https://github.com/LincolnCybermaker/suporte-ti-notes) — anotações de suporte de TI (N1): hardware, comandos Windows, chamados
+- [linux-notes](https://github.com/LincolnCybermaker/linux-notes) — comandos e conceitos de Linux
+- [scripts-lab](https://github.com/LincolnCybermaker/scripts-lab) — scripts em Bash, PowerShell e Python
+
+## Background
+
+Experiência anterior em suporte de TI, hardware e sistemas ERP (Protheus, Sankhya, Nomus). Inglês técnico sólido.
