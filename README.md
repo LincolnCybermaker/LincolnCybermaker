@@ -22,6 +22,7 @@ São Paulo, SP · [LinkedIn](https://www.linkedin.com/in/lincoln-andr%C3%A9-0b5b
 
 ## Repositórios
 
+- [ctf-writeups](https://github.com/LincolnCybermaker/ctf-writeups) — write-ups de 6 máquinas (HTB, VulnHub e home lab)
 - [pentest-report-metasploitable2](https://github.com/LincolnCybermaker/pentest-report-metasploitable2) — relatório completo de pentest com 7 vulnerabilidades exploradas no home lab
 - [suporte-ti-notes](https://github.com/LincolnCybermaker/suporte-ti-notes) — anotações de suporte de TI (N1): hardware, comandos Windows, chamados
 - [linux-notes](https://github.com/LincolnCybermaker/linux-notes) — comandos e conceitos de Linux
